@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Varsha Koli 👋
 
-<!--
-**varshakoli/varshakoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer | Java Backend | Spring Boot
 
-Here are some ideas to get you started:
+🔭 Currently working on: Talent Assessment Platform (Spring Boot + MySQL)
+💼 4+ years building enterprise compliance & audit systems
+🏢 Clients: Deloitte, Cognizant, Compass
+⚡ Reduced API response times from 5s+ to under 2s through performance optimization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Java · Spring Boot · Hibernate · REST APIs · Microservices
+PostgreSQL · MySQL · MongoDB · Docker · Jenkins · JUnit · Swagger
+
+## 📌 Featured Projects
+- 🧪 [talent-assessment-engine] — Assessment platform built for TCS hiring pipeline
+- 📋 [compliance-audit-api] — Coming soon
+
+## 📫 Connect
+LinkedIn: linkedin.com/in/varsha-koli
